@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/root/Projects/seven-dice-hot'
+let g:netrw_dirhist_6='/root/Projects/seven-dice-hot/public'
+let g:netrw_dirhist_5='/root/Projects/seven-dice-hot'
+let g:netrw_dirhist_4='/root/Projects/seven-dice/src/pages/api'
+let g:netrw_dirhist_3='/root/Projects/seven-dice/src/pages'
+let g:netrw_dirhist_2='/root/Projects/seven-dice/src'
+let g:netrw_dirhist_1='/root/Projects/seven-dice'
+let g:netrw_dirhist_0='/root/Projects/seven-dice/src'
+let g:netrw_dirhist_9='/root/Projects/seven-dice/src/pages'
+let g:netrw_dirhist_8='/root/Projects/seven-dice/src/pages/api'
